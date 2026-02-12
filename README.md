@@ -19,7 +19,7 @@ It was developed as part of the **Data Science & Analytics Internship (Task 3)**
 ---
 
 ## 🖼 Dashboard Preview
-![Marketing Campaign Dashboard](images/dashboard_overview.png)
+![Marketing Campaign Dashboard](images/dashboard.png)
 
 ### 📥 Full Interactive Dashboard
 Download the Power BI dashboard here:  
